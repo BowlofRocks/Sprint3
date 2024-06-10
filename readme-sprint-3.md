@@ -42,14 +42,14 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-- [Website Title](Link)
--
+- [React Native Tutorial for Beginners - Build a React Native App](https://youtu.be/0-S5a0eXPoc?si=FzVXqSP-u-bXbc_b)
+- [How to Create Countdown Timer using React Native](https://www.geeksforgeeks.org/how-to-create-countdown-timer-using-react-native/)
 -
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-- [ ] First thing here
+- [ ] I want to make it my own, meaning I change the styles and possibly make add more features.
 - [ ]
 - [ ]

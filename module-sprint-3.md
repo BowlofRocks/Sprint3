@@ -113,6 +113,7 @@ _Note: Add more rows as needed._
 This section should be filled out at the end of the Sprint and submitted.
 
 1. Put your GitHub link for your demonstration software here:
+   https://github.com/BowlofRocks/Sprint3.git
 
 2. Put your YouTube link for your code walkthrough and demo video here:
    https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1157612/uiconf_id/42438192/entry_id/1_y6agdpk6/embed/dynamic
@@ -121,7 +122,7 @@ This section should be filled out at the end of the Sprint and submitted.
 
 | Question                                                     | Response |
 | ------------------------------------------------------------ | -------- |
-| Are the links above public and working?                      |          |
+| Are the links above public and working?                      | Yes      |
 | Did you complete all the unique requirements for the module? | Yes      |
 | Did you write at least 100 lines of code?                    | Yes      |
 | Did you fully complete the readme.md file?                   | Yes      |
